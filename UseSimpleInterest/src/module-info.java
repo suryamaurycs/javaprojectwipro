@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module UseSimpleInterest {
+	requires SimpleInterest;
+}
